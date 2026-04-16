@@ -1,2 +1,5 @@
 aiosmtpd
 flask
+requests
+playwright
+matplotlib

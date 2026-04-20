@@ -104,3 +104,9 @@ venv.bak/
 .mypy_cache/
 .idea
 tests/core/api/cfg.ini
+
+# Project specific ignores
+accout.json
+test_accout.json
+.planning/
+
